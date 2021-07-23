@@ -1,0 +1,26 @@
+{
+    "configurations": [
+        {
+            "name": "Win32",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "D:/opencv/build/x64/MinGW/install/include",
+                "D:/opencv/build/x64/MinGW/install/include/opencv",
+                "D:/opencv/build/x64/MinGW/install/include/opencv2",
+                "C:/Program Files (x86)/Eigen3/include",
+                "C:/Program Files (x86)/Eigen3/include/eigen3"
+            ],
+            "defines": [
+                "_DEBUG",
+                "UNICODE",
+                "_UNICODE"
+            ],
+            "compilerPath": "C:\\mingw64\\bin\\gcc.exe",
+            "cStandard": "c11",
+            "cppStandard": "c++17",
+            "intelliSenseMode": "clang-x64",
+            "configurationProvider": "ms-vscode.cmake-tools"
+        }
+    ],
+    "version": 4
+}

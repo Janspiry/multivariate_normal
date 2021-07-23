@@ -1,0 +1,15 @@
+{
+    "files.associations": {
+        "string": "cpp",
+        "dense": "cpp",
+        "core": "cpp",
+        "iostream": "cpp",
+        "ostream": "cpp",
+        "*.tcc": "cpp",
+        "deque": "cpp",
+        "list": "cpp",
+        "vector": "cpp",
+        "cmath": "cpp",
+        "complex": "cpp"
+    }
+}
